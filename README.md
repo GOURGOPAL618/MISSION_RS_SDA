@@ -92,7 +92,7 @@ Build production-grade skills for **Space Tech Internships** at **Pixxel** | **S
 | Languages | Python, JavaScript (GEE Code Editor) |
 | Core Libraries | `rasterio`, `geopandas`, `numpy`, `matplotlib`, `scikit-learn`, `PyTorch` |
 | GIS Desktop | QGIS |
-| Environment | VS Code + Local Jupyter,, COLAB |
+| Environment | VS Code + Local Jupyter, COLAB |
 | Data Sources | NASA Earthdata, ESA Copernicus, Bhuvan NRSC |
 
 ---
