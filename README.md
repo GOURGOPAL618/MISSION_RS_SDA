@@ -37,7 +37,7 @@ Build production-grade skills for **Space Tech Internships** at **Pixxel** | **S
 | 03 | 20 May 2025 | Sentinel-2 Bands Deep Dive + GEE First Script | [DAY3](CODE_NOTEBOOKS/RS_SDA_DAY3(20_03).ipynb) | ✅ Done |
 | 04 | 21 May 2025 | Band Combinations + Spectral Signatures | [DAY4](CODE_NOTEBOOKS/RS_SDA_DAY4(21_05).ipynb) | ✅ Done |
 | 05 | 22 May 2025 | Radiometric + Atmospheric Correction | [DAY5](CODE_NOTEBOOKS/RS_SDA_DAY5(22_05).ipynb) | ✅ Done |
-| 06 | 23 May 2025 | Cloud Masking + Image Quality Filtering | — | ⏭️ Merged |
+| 06 | 23 May 2025 | Cloud Masking + Image Quality Filtering |[DAY7]| ⏭️ Merged |
 | 07 | 25 May 2025 | NDVI, NDWI, NDBI — Spectral Indices | [DAY7](CODE_NOTEBOOKS/RS_SDA_DAY7(25_05).ipynb) | ✅ Done |
 | 08 | 26 May 2025 | Image Classification — Supervised vs Unsupervised | [DAY8](CODE_NOTEBOOKS/RS_SDA_DAY8(26_05).ipynb) | ✅ Done |
 | 09 | 27 May 2025 | Accuracy Assessment + QGIS Introduction | [DAY9](CODE_NOTEBOOKS/RS_SDA_DAY9(27_05).ipynb) | ✅ Done |
