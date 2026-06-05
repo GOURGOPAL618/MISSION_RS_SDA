@@ -38,33 +38,6 @@ The following must NEVER be pushed to this repository under any circumstances:
 
 ---
 
-## 📁 Recommended .gitignore Entries
-
-Add these to your `.gitignore` to stay safe:
-Credentials & Keys
-.env
-*.json
-credentials.json
-token.json
-service_account_key.json
-earthengine_token/
-Large raster files
-*.tif
-*.tiff
-*.geotiff
-*.img
-Jupyter checkpoints
-.ipynb_checkpoints/
-Python cache
-pycache/
-*.pyc
-*.pyo
-QGIS project files with local paths
-*.qgz
-*.qgs
-
----
-
 ---
 
 ## 🌐 Data Sources — All Open & Licensed
