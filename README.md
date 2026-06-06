@@ -34,7 +34,7 @@ Build production-grade skills for **Space Tech Internships** at **Pixxel** | **S
 |-----|------|-------|----------|--------|
 | 01 | 18 May 2026 | EM Spectrum + Bands as ML Features | [DAY1](CODE_NOTEBOOKS/RS_SDA_DAY1(18_05).ipynb) | ✅ Done |
 | 02 | 19 May 2026 | Satellite Orbits + 4 Types of Resolution | [DAY2](CODE_NOTEBOOKS/RS_SDA_DAY_2(19_05).ipynb) | ✅ Done |
-| 03 | 20 May 2025 | Sentinel-2 Bands Deep Dive + GEE First Script | [DAY3](CODE_NOTEBOOKS/RS_SDA_DAY3(20_03).ipynb) | ✅ Done |
+| 03 | 20 May 2026 | Sentinel-2 Bands Deep Dive + GEE First Script | [DAY3](CODE_NOTEBOOKS/RS_SDA_DAY3(20_03).ipynb) | ✅ Done |
 | 04 | 21 May 2025 | Band Combinations + Spectral Signatures | [DAY4](CODE_NOTEBOOKS/RS_SDA_DAY4(21_05).ipynb) | ✅ Done |
 | 05 | 22 May 2025 | Radiometric + Atmospheric Correction | [DAY5](CODE_NOTEBOOKS/RS_SDA_DAY5(22_05).ipynb) | ✅ Done |
 | 06 | 23 May 2025 | Cloud Masking + Image Quality Filtering |[DAY7]| ⏭️ Merged |
