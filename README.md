@@ -32,24 +32,24 @@ Build production-grade skills for **Space Tech Internships** at **Pixxel** | **S
 
 | Day | Date | Topic | Notebook | Status |
 |-----|------|-------|----------|--------|
-| 01 | 18 May 2025 | EM Spectrum + Bands as ML Features | [DAY1](CODE_NOTEBOOKS/RS_SDA_DAY1(18_05).ipynb) | ✅ Done |
-| 02 | 19 May 2025 | Satellite Orbits + 4 Types of Resolution | [DAY2](CODE_NOTEBOOKS/RS_SDA_DAY_2(19_05).ipynb) | ✅ Done |
-| 03 | 20 May 2025 | Sentinel-2 Bands Deep Dive + GEE First Script | [DAY3](CODE_NOTEBOOKS/RS_SDA_DAY3(20_03).ipynb) | ✅ Done |
-| 04 | 21 May 2025 | Band Combinations + Spectral Signatures | [DAY4](CODE_NOTEBOOKS/RS_SDA_DAY4(21_05).ipynb) | ✅ Done |
-| 05 | 22 May 2025 | Radiometric + Atmospheric Correction | [DAY5](CODE_NOTEBOOKS/RS_SDA_DAY5(22_05).ipynb) | ✅ Done |
-| 06 | 23 May 2025 | Cloud Masking + Image Quality Filtering |[DAY7]| ⏭️ Merged |
-| 07 | 25 May 2025 | NDVI, NDWI, NDBI — Spectral Indices | [DAY7](CODE_NOTEBOOKS/RS_SDA_DAY7(25_05).ipynb) | ✅ Done |
-| 08 | 26 May 2025 | Image Classification — Supervised vs Unsupervised | [DAY8](CODE_NOTEBOOKS/RS_SDA_DAY8(26_05).ipynb) | ✅ Done |
-| 09 | 27 May 2025 | Accuracy Assessment + QGIS Introduction | [DAY9](CODE_NOTEBOOKS/RS_SDA_DAY9(27_05).ipynb) | ✅ Done |
-| 10 | 28 May 2025 | Change Detection — Before & After Analysis | [DAY10](CODE_NOTEBOOKS/RS_SDA_DAY10(28_05).ipynb) | ✅ Done |
-| 11 | 29 May 2025 | Time Series Analysis + Multi-temporal Imagery | [DAY11](CODE_NOTEBOOKS/RS_SDA_DAY11(29_05).ipynb) | ✅ Done |
-| 12 | 30 May 2025 | GEE Advanced — Export + Python API | [DAY12](CODE_NOTEBOOKS/RS_SDA_DAY12(30_05).ipynb) | ✅ Done |
-| 13 | 01 Jun 2025 | Raster Data Processing — rasterio + GDAL | [DAY13](CODE_NOTEBOOKS/RS_SDA_DAY13(01_06).ipynb) | ✅ Done |
-| 14 | 02 Jun 2025 | Vector Data + Geopandas | [DAY14](CODE_NOTEBOOKS/RS_SDA_DAY14(02_06).ipynb) | ✅ Done |
-| 15 | 03 Jun 2025 | Complete Preprocessing Pipeline — End to End | [DAY15](CODE_NOTEBOOKS/RS_SDA_DAY15(03_06).ipynb) | ✅ Done |
-| 16 | 04 Jun 2025 | ML for Remote Sensing — Random Forest + SVM | [DAY16](CODE_NOTEBOOKS/RS_SDA_DAY16(04_06).ipynb) | ✅ Done |
-| 17 | 05 Jun 2025 | Deep Learning for RS — CNN Basics | [DAY17](CODE_NOTEBOOKS/RS_SDA_DAY17(05_06).ipynb) | ✅ Done |
-| 18 | — | *Upcoming* | — | 🔜 |
+| 01 | 18 May 2026 | EM Spectrum + Bands as ML Features | [DAY1](CODE_NOTEBOOKS/RS_SDA_DAY1(18_05).ipynb) | ✅ Done |
+| 02 | 19 May 2026 | Satellite Orbits + 4 Types of Resolution | [DAY2](CODE_NOTEBOOKS/RS_SDA_DAY_2(19_05).ipynb) | ✅ Done |
+| 03 | 20 May 2026 | Sentinel-2 Bands Deep Dive + GEE First Script | [DAY3](CODE_NOTEBOOKS/RS_SDA_DAY3(20_03).ipynb) | ✅ Done |
+| 04 | 21 May 2026 | Band Combinations + Spectral Signatures | [DAY4](CODE_NOTEBOOKS/RS_SDA_DAY4(21_05).ipynb) | ✅ Done |
+| 05 | 22 May 2026 | Radiometric + Atmospheric Correction | [DAY5](CODE_NOTEBOOKS/RS_SDA_DAY5(22_05).ipynb) | ✅ Done |
+| 06 | 23 May 2026 | Cloud Masking + Image Quality Filtering |[DAY7]| ⏭️ Merged |
+| 07 | 25 May 2026 | NDVI, NDWI, NDBI — Spectral Indices | [DAY7](CODE_NOTEBOOKS/RS_SDA_DAY7(25_05).ipynb) | ✅ Done |
+| 08 | 26 May 2026 | Image Classification — Supervised vs Unsupervised | [DAY8](CODE_NOTEBOOKS/RS_SDA_DAY8(26_05).ipynb) | ✅ Done |
+| 09 | 27 May 2026 | Accuracy Assessment + QGIS Introduction | [DAY9](CODE_NOTEBOOKS/RS_SDA_DAY9(27_05).ipynb) | ✅ Done |
+| 10 | 28 May 2026 | Change Detection — Before & After Analysis | [DAY10](CODE_NOTEBOOKS/RS_SDA_DAY10(28_05).ipynb) | ✅ Done |
+| 11 | 29 May 2026 | Time Series Analysis + Multi-temporal Imagery | [DAY11](CODE_NOTEBOOKS/RS_SDA_DAY11(29_05).ipynb) | ✅ Done |
+| 12 | 30 May 2026 | GEE Advanced — Export + Python API | [DAY12](CODE_NOTEBOOKS/RS_SDA_DAY12(30_05).ipynb) | ✅ Done |
+| 13 | 01 Jun 2026 | Raster Data Processing — rasterio + GDAL | [DAY13](CODE_NOTEBOOKS/RS_SDA_DAY13(01_06).ipynb) | ✅ Done |
+| 14 | 02 Jun 2026 | Vector Data + Geopandas | [DAY14](CODE_NOTEBOOKS/RS_SDA_DAY14(02_06).ipynb) | ✅ Done |
+| 15 | 03 Jun 2026 | Complete Preprocessing Pipeline — End to End | [DAY15](CODE_NOTEBOOKS/RS_SDA_DAY15(03_06).ipynb) | ✅ Done |
+| 16 | 04 Jun 2026 | ML for Remote Sensing — Random Forest + SVM | [DAY16](CODE_NOTEBOOKS/RS_SDA_DAY16(04_06).ipynb) | ✅ Done |
+| 17 | 05 Jun 2026 | Deep Learning for RS — CNN Basics | [DAY17](CODE_NOTEBOOKS/RS_SDA_DAY17(05_06).ipynb) | ✅ Done |
+| 18 | 06 Jun 2026 | U-Net for Semantic Segmentation | [DAY18](CODE_NOTEBOOKS/RS_SDA_DAY18(06_06).ipynb) | ✅ Done |
 | 19 | — | *Upcoming* | — | 🔜 |
 | 20 | — | *Upcoming* | — | 🔜 |
 
