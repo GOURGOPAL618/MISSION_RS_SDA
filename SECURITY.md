@@ -38,8 +38,6 @@ The following must NEVER be pushed to this repository under any circumstances:
 
 ---
 
----
-
 ## 🌐 Data Sources — All Open & Licensed
 
 | Dataset | Provider | License |
