@@ -50,8 +50,9 @@ Build production-grade skills for **Space Tech Internships** at **Pixxel** | **S
 | 16 | 04 Jun 2026 | ML for Remote Sensing — Random Forest + SVM | [DAY16](CODE_NOTEBOOKS/RS_SDA_DAY16(04_06).ipynb) | ✅ Done |
 | 17 | 05 Jun 2026 | Deep Learning for RS — CNN Basics | [DAY17](CODE_NOTEBOOKS/RS_SDA_DAY17(05_06).ipynb) | ✅ Done |
 | 18 | 06 Jun 2026 | U-Net for Semantic Segmentation | [DAY18](CODE_NOTEBOOKS/RS_SDA_DAY18(06_06).ipynb) | ✅ Done |
-| 19 | — | *Upcoming* | — | 🔜 |
-| 20 | — | *Upcoming* | — | 🔜 |
+| 22 | 11 Jun 2026 | SAR Fundamentals — Sentinel-1 Deep Dive | [DAY22](CODE_NOTEBOOKS/RS_SDA_DAY22(11_06).ipynb) | ✅ Done |
+| 23 | — | *Upcoming* | — | 🔜 |
+| 24 | — | *Upcoming* | — | 🔜 |
 
 > **Legend:** ✅ Done &nbsp;|&nbsp; 🔄 In Progress &nbsp;|&nbsp; 🔜 Upcoming &nbsp;|&nbsp; ⏭️ Merged into adjacent day
 
