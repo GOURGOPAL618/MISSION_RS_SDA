@@ -52,6 +52,7 @@ Build production-grade skills for **Space Tech Internships** at **Pixxel** | **S
 | 18 | 06 Jun 2026 | U-Net for Semantic Segmentation | [DAY18](CODE_NOTEBOOKS/RS_SDA_DAY18(06_06).ipynb) | ✅ Done |
 | 22 | 11 Jun 2026 | SAR Fundamentals — Sentinel-1 Deep Dive | [DAY22](CODE_NOTEBOOKS/RS_SDA_DAY22(11_06).ipynb) | ✅ Done |
 | 23 | 12 Jun 2026 | SNAP Toolbox — SAR Processing Pipeline | [DAY23](CODE_NOTEBOOKS/RS_SDA_DAY23(12_06).ipynb) | ✅ Done |
+
 | 24 | — | *Upcoming* | — | 🔜 |
 
 > **Legend:** ✅ Done &nbsp;|&nbsp; 🔄 In Progress &nbsp;|&nbsp; 🔜 Upcoming &nbsp;|&nbsp; ⏭️ Merged into adjacent day
