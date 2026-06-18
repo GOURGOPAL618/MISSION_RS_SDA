@@ -54,8 +54,8 @@ Build production-grade skills for **Space Tech Internships** at **Pixxel** | **S
 | 23 | 12 Jun 2026 | SNAP Toolbox — SAR Processing Pipeline | [DAY23](CODE_NOTEBOOKS/RS_SDA_DAY23(12_06).ipynb) | ✅ Done |
 | 24 | 13 Jun 2026 | InSAR Basics + SAR Change Detection | [DAY24](CODE_NOTEBOOKS/RS_SDA_DAY24(13_06).ipynb) | ✅ Done |
 | 25, 26, 27 | 15, 16, 17 Jun 2026 | Crop Health Monitoring Odisha Paddy Fields | https://github.com/GOURGOPAL618/Crop_Health_Monitor_Odisha | ✅ Done |
-| 24 | 13 Jun 2026 | InSAR Basics + SAR Change Detection | [DAY24](CODE_NOTEBOOKS/RS_SDA_DAY24(13_06).ipynb) | ✅ Done |
-| 24 | — | *Upcoming* | — | 🔜 |
+| 28 | 13 Jun 2026 | InSAR Basics + SAR Change Detection | [DAY24](CODE_NOTEBOOKS/RS_SDA_DAY24(13_06).ipynb) | ✅ Done |
+| 29 | — | *Upcoming* | — | 🔜 |
 
 > **Legend:** ✅ Done &nbsp;|&nbsp; 🔄 In Progress &nbsp;|&nbsp; 🔜 Upcoming &nbsp;|&nbsp; ⏭️ Merged into adjacent day
 
