@@ -102,7 +102,7 @@ Build production-grade skills for **Space Tech Internships** at **Pixxel** | **S
 | Cloud Platform | Google Earth Engine (GEE) |
 | Languages | Python, JavaScript (GEE Code Editor) |
 | Core Libraries | `rasterio`, `geopandas`, `numpy`, `matplotlib`, `scikit-learn`, `PyTorch` |
-| GIS Desktop | QGIS |
+| GIS Desktop | QGIS, SNAP |
 | Environment | VS Code + Local Jupyter, COLAB |
 | Data Sources | NASA Earthdata, ESA Copernicus, Bhuvan NRSC |
 
