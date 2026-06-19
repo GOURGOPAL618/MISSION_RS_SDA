@@ -143,11 +143,19 @@ B.Tech — Artificial Intelligence & Data Science | Independent Researcher
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MISSION_STATUS-SUCCESS-SUCCESS?style=flat-square&logo=spaceship&logoColor=white&color=00FF00">
-  <img src="https://img.shields.io/badge/ORBITAL_DATA-VERIFIED-BLUE?style=flat-square&logo=nasa&logoColor=white&color=0055A5">
-  <img src="https://img.shields.io/badge/SECURITY-ENCRYPTED-LIGHTGREY?style=flat-square&logo=probot&logoColor=white&color=7f8c8d">
-  <img src="https://img.shields.io/badge/PIPELINE-DEPLOYED-REDFLAME?style=flat-square&logo=gitbook&logoColor=white&color=E03C11">
+  <img src="https://img.shields.io/badge/MISSION_STATUS-SUCCESS-00FF00?style=for-the-badge&logo=spacex&logoColor=white">
+  <img src="https://img.shields.io/badge/ORBITAL_DATA-VERIFIED-0055A5?style=for-the-badge&logo=nasa&logoColor=white">
+  <img src="https://img.shields.io/badge/TELEMETRY-LOGGED-FF6F00?style=for-the-badge&logo=datadog&logoColor=white">
+  
+  <br>
+
+  <img src="https://img.shields.io/badge/PIPELINE-DEPLOYED-E03C11?style=for-the-badge&logo=githubactions&logoColor=white">
+  <img src="https://img.shields.io/badge/DATA_INTEGRITY-PASSED-4CAF50?style=for-the-badge&logo=checkmarx&logoColor=white">
+  <img src="https://img.shields.io/badge/COMPUTE_CORE-OPTIMIZED-9C27B0?style=for-the-badge&logo=nvidia&logoColor=white">
+  <img src="https://img.shields.io/badge/WORKSPACE-ENCRYPTED-7F8C8D?style=for-the-badge&logo=gitbook&logoColor=white">
 </p>
+
+
 
 <br>
 <hr style="border:0.5px solid #gray">
