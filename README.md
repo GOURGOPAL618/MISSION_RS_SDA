@@ -110,14 +110,16 @@ To engineer production-grade, flight-ready computational pipelines for **Multisp
 
 ---
 
-## 🎯 Target Applications
+### 🎯 Operational Domain Matrix & Industry Use-Cases
 
-| Company | Domain | Relevance |
-|---------|--------|-----------|
-| **Pixxel** | Hyperspectral imaging, crop disease detection | Spectral signatures, band ML features |
-| **SatSure** | Crop yield prediction, farmer loan intelligence | NDVI time series, LSTM models |
-| **GalaxEye** | SAR + optical fusion, object detection | CNN on satellite arrays, RF baseline |
-| **KaleidEO** | Land use land cover mapping | Supervised classification pipeline |
+This codebase is systematically architected to align with core downstream engineering tracks across the global Earth Observation (EO) and Space-Tech ecosystem:
+
+| Target Analytics Domain | Core Engineering Workload | Core Satellite Relevance |
+| :--- | :--- | :--- |
+| **Hyperspectral Diagnostics** | Disease detection, mineral mapping, canopy stress | Analysis of precise spectral signatures & multi-band ML extraction |
+| **Predictive Agri-Intelligence** | Macro crop yield forecasting, risk scoring, financial telemetry | Temporal NDVI time-series analysis & recurrent models (LSTM/GRUs) |
+| **Multi-Sensor Data Fusion** | SAR + Optical fusion, all-weather tactical object detection | Multi-modal CNN processing on high-resolution satellite arrays |
+| **Planetary Land Cover Mapping** | Large-scale Land Use Land Cover (LULC) classification | Production-grade supervised pipelines & spatial feature separation |
 
 ---
 
