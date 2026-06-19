@@ -149,4 +149,10 @@ B.Tech — Artificial Intelligence & Data Science | Independent Researcher
   <img src="https://img.shields.io/badge/PIPELINE-DEPLOYED-REDFLAME?style=flat-square&logo=gitbook&logoColor=white&color=E03C11">
 </p>
 
-                                        *"Work done with pure intent needs no validation."*
+<br>
+<hr style="border:0.5px solid #gray">
+<br>
+<p align="center">
+  🚀 <br><br>
+  <b><i>"Work done with pure intent needs no validation."</i></b>
+</p>
