@@ -13,17 +13,7 @@ Build production-grade skills for **Space Tech Internships** at **Pixxel** | **S
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Sentinel-2-41B3A2?style=for-the-badge&logo=esa&logoColor=white">
-  <img src="https://img.shields.io/badge/GEE-FFC107?style=for-the-badge&logo=googleearth&logoColor=black">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/rasterio-6C9F3C?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white">
-</p>
+
 
 
 ---
