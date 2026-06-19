@@ -1,7 +1,7 @@
 # 🛰️ MISSION_RS_SDA — Remote Sensing & Satellite Data Analysis
 
 > **Independent Research | Gouragopal Mohapatra (@GOURGOPAL618)**  
-> *110-day hands-on mission: Remote Sensing → GEE → ML/DL → Geospatial Intelligence*
+> *110-day hands-on mission: Satellite Remote Sensing ──> Planetary-Scale Compute (GEE) ──> Deep Spatial Feature Extraction ──> Downstream EO Analytics*
 
 ---
 
