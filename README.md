@@ -7,7 +7,7 @@
 
 ## 🎯 Mission Objective
 
-Build production-grade skills for **Space Tech Internships** at **Pixxel** | **SatSure** | **GalaxEye** — India's leading Earth Observation startups.
+To engineer production-grade, flight-ready computational pipelines for **Multispectral & Hyperspectral Earth Observation (EO) Constellations**. This repository serves as an operational sandbox for solving complex spatial scaling, downstream satellite data analytics, and edge-computing constraints within the global Space-Tech ecosystem.
 
 📌 **Every notebook = one day of deep work.** No shortcuts. No skipping.
 
