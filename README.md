@@ -2,7 +2,7 @@
 
 > ***Independent Research | Gouragopal Mohapatra (@GOURGOPAL618)***
 
-⚡ *Status: Active Sub-Orbital Codebase • Daily Telemetry & Optimization Logs Appended Regularly.*  
+> ⚡ *Status: Active Sub-Orbital Codebase • Daily Telemetry & Optimization Logs Appended Regularly.*  
 > *110-day hands-on mission: Satellite Remote Sensing ──> Planetary-Scale Compute (GEE) ──> Deep Spatial Feature Extraction ──> Downstream EO Analytics*
 
 ---
