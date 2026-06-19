@@ -13,7 +13,23 @@ Build production-grade skills for **Space Tech Internships** at **Pixxel** | **S
 
 ---
 
+<p align="center">
+  <img src="https://img.shields.io/badge/MISSION-COPERNICUS-0055A5?style=for-the-badge&logo=esa&logoColor=white">
+  <img src="https://img.shields.io/badge/DATA-SENTINEL_2--13BANDS-41B3A2?style=for-the-badge&logo=scispace&logoColor=white">
+  <img src="https://img.shields.io/badge/ANALYTICS-EARTH_ENGINE-FFC107?style=for-the-badge&logo=googleearth&logoColor=black">
+  
+  <br>
 
+  <img src="https://img.shields.io/badge/ENGINE-PYTORCH_DEEP_LEARNING-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/GEOSPATIAL-RASTERIO_&_GDAL-6C9F3C?style=for-the-badge&logo=anaconda&logoColor=white">
+  <img src="https://img.shields.io/badge/MISSION_CONTROL-QGIS_DESKTOP-589632?style=for-the-badge&logo=qgis&logoColor=white">
+
+  <br>
+
+  <img src="https://img.shields.io/badge/COMPUTE-NUMPY_TENSORS-013243?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/TELEMETRY-PANDAS_DATAFRAMES-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/PIPELINE-SCIKIT_LEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+</p>
 
 
 ---
