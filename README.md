@@ -138,6 +138,11 @@ B.Tech — Artificial Intelligence & Data Science | Independent Researcher
 
 ---
 
-
+<p align="center">
+  <img src="https://img.shields.io/badge/MISSION_STATUS-SUCCESS-SUCCESS?style=flat-square&logo=spaceship&logoColor=white&color=00FF00">
+  <img src="https://img.shields.io/badge/ORBITAL_DATA-VERIFIED-BLUE?style=flat-square&logo=nasa&logoColor=white&color=0055A5">
+  <img src="https://img.shields.io/badge/SECURITY-ENCRYPTED-LIGHTGREY?style=flat-square&logo=probot&logoColor=white&color=7f8c8d">
+  <img src="https://img.shields.io/badge/PIPELINE-DEPLOYED-REDFLAME?style=flat-square&logo=gitbook&logoColor=white&color=E03C11">
+</p>
 
 *"Work done with pure intent needs no validation."*
