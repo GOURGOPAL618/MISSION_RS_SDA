@@ -121,7 +121,7 @@ Build production-grade skills for **Space Tech Internships** at **Pixxel** | **S
 
 ## 📊 Mission Stats
 
-- 📓 **Notebooks completed:** 20  
+- 📓 **Notebooks completed:** 24  
 - 📅 **Active since:** 18 May 2025  
 - 🔬 **Research context:** Independent — no institutional affiliation  
 - ©️ **Copyright:** Gouragopal Mohapatra | Copyright Act 1957, India
