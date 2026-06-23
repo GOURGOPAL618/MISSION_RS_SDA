@@ -65,7 +65,7 @@ To engineer production-grade, flight-ready computational pipelines for **Multisp
 | 28 | 18 Jun 2026 | SAR + Optical Data Fusion | [DAY28](CODE_NOTEBOOKS/RS_SDA_DAY28(18_06).ipynb) | ✅ Done |
 | 29 | 19 Jun 2026 | Deep Learning Advanced — Transfer Learning for Satellite Imagery | [DAY29](CODE_NOTEBOOKS/RS_SDA_DAY29(19_06).ipynb) | ✅ Done |
 | 30 | 20 Jun 2026 | Object Detection in Satellite Imagery | [DAY30](CODE_NOTEBOOKS/RS_SDA_DAY30(20_06).ipynb) | ✅ Done |
-| 31, 32, 33 | 21, 22, 23 Jun 2026 |  | [DAY30](CODE_NOTEBOOKS/RS_SDA_DAY30(20_06).ipynb) | ✅ Done |
+| 31, 32, 33 | 21, 22, 23 Jun 2026 | DISASTERMAPPING OF ODISHA CYCLONE ZONE | [DAY30](CODE_NOTEBOOKS/RS_SDA_DAY30(20_06).ipynb) | ✅ Done |
 | 29 | — | *Upcoming* | — | 🔜 |
 
 > **Legend:** ✅ Done &nbsp;|&nbsp; 🔄 In Progress &nbsp;|&nbsp; 🔜 Upcoming &nbsp;|&nbsp; ⏭️ Merged into adjacent day
