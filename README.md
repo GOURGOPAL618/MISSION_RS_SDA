@@ -61,12 +61,12 @@ To engineer production-grade, flight-ready computational pipelines for **Multisp
 | 22 | 11 Jun 2026 | SAR Fundamentals — Sentinel-1 Deep Dive | [DAY22](CODE_NOTEBOOKS/RS_SDA_DAY22(11_06).ipynb) | ✅ Done |
 | 23 | 12 Jun 2026 | SNAP Toolbox — SAR Processing Pipeline | [DAY23](CODE_NOTEBOOKS/RS_SDA_DAY23(12_06).ipynb) | ✅ Done |
 | 24 | 13 Jun 2026 | InSAR Basics + SAR Change Detection | [DAY24](CODE_NOTEBOOKS/RS_SDA_DAY24(13_06).ipynb) | ✅ Done |
-| 25, 26, 27 | 15, 16, 17 Jun 2026 | Crop Health Monitoring Odisha Paddy Fields | https://github.com/GOURGOPAL618/Crop_Health_Monitor_Odisha | ✅ Done |
+| 25, 26, 27 | 15, 16, 17 Jun 2026 | Crop Health Monitoring Odisha Paddy Fields(P2) | https://github.com/GOURGOPAL618/Crop_Health_Monitor_Odisha | ✅ Done |
 | 28 | 18 Jun 2026 | SAR + Optical Data Fusion | [DAY28](CODE_NOTEBOOKS/RS_SDA_DAY28(18_06).ipynb) | ✅ Done |
 | 29 | 19 Jun 2026 | Deep Learning Advanced — Transfer Learning for Satellite Imagery | [DAY29](CODE_NOTEBOOKS/RS_SDA_DAY29(19_06).ipynb) | ✅ Done |
 | 30 | 20 Jun 2026 | Object Detection in Satellite Imagery | [DAY30](CODE_NOTEBOOKS/RS_SDA_DAY30(20_06).ipynb) | ✅ Done |
 | 32, 33, 34 | 22, 23, 24 Jun 2026 | *DISASTER MAPPING OF ODISHA CYCLONE ZONE USING SAR (P3)*| https://github.com/GOURGOPAL618/SAR_DISASTER_MAPPING_ODISHA | ✅ Done |
-| 29 | — | *Upcoming* | — | 🔜 |
+| 35 | — | *Upcoming* | — | 🔜 |
 
 > **Legend:** ✅ Done &nbsp;|&nbsp; 🔄 In Progress &nbsp;|&nbsp; 🔜 Upcoming &nbsp;|&nbsp; ⏭️ Merged into adjacent day
 
